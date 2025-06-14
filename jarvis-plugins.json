@@ -1,0 +1,19 @@
+{
+    "plugins": [{
+            "name": "youtube_plugin",
+            "pip_name": "youtube-api-plugin"
+        },
+        {
+            "name": "gmail_reader",
+            "pip_name": "gmail-api-reader"
+        },
+        {
+            "name": "weather_fetcher",
+            "pip_name": "openweather-api-wrapper"
+        },
+        {
+            "name": "news_digest",
+            "pip_name": "newsapi-client"
+        }
+    ]
+}
