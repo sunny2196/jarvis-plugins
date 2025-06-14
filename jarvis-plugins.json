@@ -2,6 +2,8 @@
     "plugins": [{
             "name": "youtube_plugin",
             "pip_name": "youtube-api-plugin"
+            "url": "https://raw.githubusercontent.com/sunny2196/weather_plugin.py/refs/heads/main/weather_plugin.py",
+            "signature": "gan4W+ejAeL6R/xeAfawS2fmPsYg43k/geCm9Iws8HKdIRDWPU9icWzHcYcY3k4ga7XWQ+wF7kv566yvw7Wy+fYbioMLWE/2lCvgnzh5hwR+XPRu3+ZvWAPNiFUpjV4ISyD91Gu0jsDwf33iNUftPGec1keNTSohnugcHMg9pjac9C4TZGJgaZnFGWtTXzZ7JyfVLXeJT9brNw+l2DvSGo3Tej7YAiGLfWlUG0bMnTUxpZm/9JVd/mSzKQDie4boOE+mSGiIuXa+t+nHdPBGPLPFHFNMTmIbejV7SXhQed1tWl7NgNRCUXX/E64q71ewBPNaP7yJeZGXD1uUN3A8aA=="
         },
         {
             "name": "gmail_reader",
